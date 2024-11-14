@@ -1,0 +1,8 @@
+{
+  "name": "OOPLab211FPTDuyDo",
+  "main": "src/console/main.java",
+  "devDependencies": {
+      "@types/node": "^22.9.0"
+  },
+  "dependencies": {}
+}
