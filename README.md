@@ -1,16 +1,14 @@
 Title:
-**Courses Program Management
-**
+**Courses Program Management**
 
-Background:
+**_Background:_**
 FU's short-term informatics training center is training informatics courses. Short-term topics such as
 Photoshop, Java, Web, etc. The management of courses, students, transcripts, and revenue is done through Excel.
 Currently, the center is facing difficulties when the number of learners is increasing day by day. The data is getting
 bigger and bigger, so it is very difficult to manage Excel without security. The center wishes to build software to
 solve the above difficulties.
 
-**Requirements for professional functions:
-**
+**Requirements for professional functions:**
 Build your data structure
 ➢ Topic information includes Topic code or ID, name, type (long/short term), title, duration, etc.
 Topic ID is unique.
